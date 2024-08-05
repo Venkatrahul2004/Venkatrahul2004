@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm BATTA VENKATA RAHUL</h1>
 <h3 align="center">A passionate ML ENGINEER from India</h3>
 
+<img src="https://24.media.tumblr.com/826bf03154c821adfc4c29d01717e53c/tumblr_mrwadg0ZKa1sfbxbto1_500.gif" style="display: block; margin: 0 auto;" alt="Description">
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatrahul2004&label=Profile%20views&color=0e75b6&style=flat" alt="venkatrahul2004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkatrahul2004" alt="venkatrahul2004" /></a> </p>
